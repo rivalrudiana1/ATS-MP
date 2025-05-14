@@ -17,7 +17,7 @@ Prodi: D3 Teknik Informatika
   - Jika input tidak valid, pesan error muncul di bawah TextField terkait.
 - Dialog konfirmasi setelah tombol Submit ditekan.
 - Navigasi ke halaman "Terima Kasih" setelah dialog ditutup.
-- Transisi halaman dengan animasi **slide + fade** (halus).
+- Transisi halaman dengan animasi **slide + fade**.
 - Layout responsif:
   - Tampilan satu kolom untuk perangkat mobile.
   - Tampilan dua kolom berdampingan untuk perangkat tablet.
@@ -30,15 +30,25 @@ Prodi: D3 Teknik Informatika
 
 Berikut adalah beberapa tampilan dari aplikasi ini:
 
-![Tampilan 1](screenshot/tampilan_home.png)
-![Tampilan 2](screenshot/tampilan_alert.png)
-![Tampilan 3](screenshot/tampilan_terimakasih.png)
+1. **Halaman Utama**  
+   ![Tampilan 1](screenshot/tampilan_home.png)
+
+2. **Alert**  
+   ![Tampilan 2](screenshot/tampilan_alert.png)
+
+3. **Halaman Terima Kasih**  
+   ![Tampilan 3](screenshot/tampilan_terimakasih.png)
 
 ## 🚀 Cara Menjalankan
 
 1. Pastikan Flutter SDK sudah terinstal.
-2. Clone atau salin seluruh project ini ke dalam folder.
+2. Clone repository ini ke dalam folder lokal menggunakan SSH:
+   ```bash
+   git clone git@github.com:rivalrudiana1/ATS-MP.git
+   cd ATS-MP
+
 3. Jalankan perintah berikut di terminal:
    ```bash
    flutter pub get
-   flutter run
+   flutter run 
+4. Bisa juga dijalankan dengan F5
