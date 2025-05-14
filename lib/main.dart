@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
                 // Transisi: kombinasi slide dari bawah dan fade in
                 const beginOffset = Offset(0.0, 0.3); // geser dari bawah
                 const endOffset = Offset.zero; // posisi akhir normal
-                const curve = Curves.easeInOut; // kurva animasi halus
+                const curve = Curves.easeInOut; // kurva animasi
 
                 final offsetTween = Tween(
                   begin: beginOffset,
