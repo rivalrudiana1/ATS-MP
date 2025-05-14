@@ -1,16 +1,28 @@
-# uts_rival
+# 📱 Flutter Praktikum - UTS Mobile Programming
 
-A new Flutter project.
+Proyek ini dibuat untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah **Pemrograman untuk Perangkat Bergerak** oleh Marwanto Rahmatuloh, ST., MT. di Program Studi D3 Teknik Informatika, ULBI.
 
-## Getting Started
+## ✨ Fitur Aplikasi
 
-This project is a starting point for a Flutter application.
+- Tampilan form dengan input nama dan email.
+- Validasi input:
+  - Nama dan email tidak boleh kosong.
+  - Format email harus valid.
+- Dialog konfirmasi setelah tombol Submit ditekan.
+- Navigasi ke halaman "Terima Kasih" setelah dialog ditutup.
+- Transisi halaman dengan animasi slide + fade.
+- Responsif (layout satu kolom untuk mobile, dua kolom untuk tablet).
+- Desain modern: border radius, background soft, font mudah dibaca.
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Tampilan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> (Tambahkan gambar tangkapan layar di sini jika tersedia)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Cara Menjalankan
+
+1. Pastikan Flutter SDK sudah terinstal.
+2. Clone atau salin seluruh project ini ke dalam folder.
+3. Jalankan perintah berikut di terminal:
+   ```bash
+   flutter pub get
+   flutter run
