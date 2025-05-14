@@ -4,9 +4,9 @@ Proyek ini dibuat untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah **Pemro
 
 ## Identitas 
 
-Nama: Rival Rudiana Putra
-Npm: 613230041
-Prodi: D3 Teknik Informatika
+- Nama: Rival Rudiana Putra
+- Npm: 613230041
+- Prodi: D3 Teknik Informatika
 
 ## ✨ Fitur Aplikasi
 
